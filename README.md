@@ -1,3 +1,5 @@
+<img width="1917" height="531" alt="image" src="https://github.com/user-attachments/assets/d4381570-6f32-466d-a82a-58a0b072cd7d" />
+
 # Wuzzuf Web Scraping Task
 
 ## Objective
